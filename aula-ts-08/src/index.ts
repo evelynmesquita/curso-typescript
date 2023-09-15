@@ -24,7 +24,7 @@ const game: Game = {
 
 const games: Game[] = [game];
 
-function play(game: Game ){
+function play(game: Game) {
     // runs the game
     console.log(game);
 }
