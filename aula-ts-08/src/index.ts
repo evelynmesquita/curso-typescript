@@ -9,7 +9,7 @@ type Game = {
 type Platform = {
     id: number;
     name: string;
-};
+}
 
 const game: Game = {
     id: 1,
